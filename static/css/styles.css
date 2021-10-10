@@ -5,6 +5,17 @@
 
 body {
 	background:#263444;
+	color:#EAEAE8;
+}
+
+.sky-blue{
+	background:#3A7D8C;
+	background-color: #3A7D8C;
+}
+
+
+.azulito{
+	color: #263444;
 }
 
 header {
@@ -88,4 +99,22 @@ section {
 		float:right;
 		font-size:40px;
 	}
+}
+
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#4183D7;
 }
